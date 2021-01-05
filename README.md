@@ -1,6 +1,10 @@
 # Working with Remotes
 
-I had an ATI Remote Wonder Plus laying around in the closet from approximately 2003.  The goal was to get it to work with Python so I can use it for controlling a PyQT app.
+I had an ATI Remote Wonder Plus laying around in the closet from approximately 2003.  
+
+![](ati_remote_wonder_plus.JPG?raw=true)
+
+The goal was to get it to work with Python so I can use it for controlling a PyQT app.
 
 Step 1 was to get it to communicate.
 
