@@ -8,6 +8,8 @@ The goal was to get it to work with Python so I can use it for controlling a PyQ
 
 Step 1 was to get it to communicate.
 
+NOTE: if you want to skip to the result and don't care about the progression, here's the final Python-based driver in a separate repo: [obies-scoreboard/model/remotes/ati.py](https://github.com/OddballSports-tv/obies-scoreboard/blob/main/model/remotes/ati.py)
+
 # Poking around online
 
 I investigated the following:
@@ -163,3 +165,5 @@ There might be an existing keymap available for your device. Poke around online.
 # Conclusion
 
 Be persistent and you should be able to get your HID device added/working/tested. 
+
+Here's the final Python-based driver in a separate repo: [obies-scoreboard/model/remotes/ati.py](https://github.com/OddballSports-tv/obies-scoreboard/blob/main/model/remotes/ati.py)
